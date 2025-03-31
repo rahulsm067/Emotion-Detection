@@ -8,3 +8,4 @@ joblib
 neattext
 tensorflow
 SpeechRecognition
+streamlit
