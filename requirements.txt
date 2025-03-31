@@ -7,5 +7,5 @@ scikit-learn
 joblib
 neattext
 tensorflow
-SpeechRecognition>=3.10.0
+SpeechRecognition
 sklearn
