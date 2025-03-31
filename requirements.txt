@@ -7,3 +7,5 @@ scikit-learn
 joblib
 neattext
 tensorflow
+speech_recognition
+sklearn
