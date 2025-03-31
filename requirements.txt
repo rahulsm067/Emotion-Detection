@@ -5,3 +5,5 @@ neattext
 plotly
 scikit-learn
 joblib
+neattext
+tensorflow
