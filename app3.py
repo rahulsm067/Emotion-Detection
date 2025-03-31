@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 import joblib
-import speech_recognition as sr
+import speechrecognition as sr
 from track_utils import create_page_visited_table, add_page_visited_details, view_all_page_visited_details, add_prediction_details, view_all_prediction_details, create_emotionclf_table, IST
 import neattext.functions as nfx  # Added import for nfx
 from tensorflow.keras.preprocessing.sequence import pad_sequences  # Added import for pad_sequences
